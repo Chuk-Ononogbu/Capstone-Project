@@ -1,0 +1,4 @@
+regime,V0,V_NPV_full,V_NPV_no_uri,option_premium,premium_pct,uri_contribution,uri_pct,interpretation
+regime_1,2070.25,6138.74,N/A,-4068.49,-66.28,N/A,N/A,Pre-shift baseline: moderate scarcity pricing
+regime_2,12231.15,39339.71,20203.92,-27108.56,-68.91,19135.79,48.64,High volatility period including Uri tail event
+regime_3,5553.3,12771.76,N/A,-7218.46,-56.52,N/A,N/A,Post-Uri reformed regime: lower VOLL cap
