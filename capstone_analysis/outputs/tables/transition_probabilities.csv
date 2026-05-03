@@ -1,0 +1,10 @@
+regime,season,n_intervals,n_active,p_active
+regime_1,all,40609,948,0.023345
+regime_1,summer,8832,444,0.050272
+regime_1,non_summer,31777,504,0.015861
+regime_2,all,99457,3956,0.039776
+regime_2,summer,26496,1621,0.061179
+regime_2,non_summer,72961,2335,0.032003
+regime_3,all,105121,3687,0.035074
+regime_3,summer,26496,1434,0.054121
+regime_3,non_summer,78625,2253,0.028655

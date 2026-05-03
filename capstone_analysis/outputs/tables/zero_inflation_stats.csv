@@ -1,0 +1,4 @@
+regime,n_total,n_active,n_quiet,pct_zero,pct_active,mean_active,median_active,max_adder
+regime_1,40609,948,39661,97.666,2.334,47.1316,5.89,901.01
+regime_2,99457,3956,95501,96.022,3.978,133.5183,9.65,7053.69
+regime_3,105121,3687,101434,96.493,3.507,59.5521,7.9,2545.7
