@@ -33,8 +33,9 @@ capstone_analysis/
 │   ├── figures/          # All 10 publication-quality figures (300 dpi)
 │   └── tables/           # Calibration parameters, results, sensitivity CSVs
 └── src/
-    └── analysis.py       # Full analysis pipeline (calibration + simulation)
-```
+    ├── session1_calibration.py   # Data loading, two-state calibration, model validation
+    ├── session2_simulation.py    # Monte Carlo simulation and option value estimation
+    └── session3_analysis.py      # Sensitivity analysis, Vega, and final results
 
 ---
 
