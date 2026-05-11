@@ -95,7 +95,7 @@ Python 3.8 or higher recommended.
 
 ## Paper
 
-The full capstone paper is available in this repository as `Capstone_Project.docx`.
+The full capstone paper is available in this repository as `Capstone Project - Chuk Ononogbu.docx`.
 
 **Key references:**
 - Cartea & Figueroa (2005) — mean-reverting jump-diffusion model
@@ -103,6 +103,7 @@ The full capstone paper is available in this repository as `Capstone_Project.doc
 - Huisman & Mahieu (2003) — two-state regime structure
 - Dixit & Pindyck (1994) — real options theory
 
+Note: A significant amount of the mathematical model codebase was generated with the assistance of Claude Code.
 ---
 
 *Johns Hopkins SAIS · MASE · May 2026*
